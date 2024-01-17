@@ -1,0 +1,2 @@
+Example input goes here.
+Usually smaller, used to test the solution.

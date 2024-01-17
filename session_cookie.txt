@@ -1,0 +1,1 @@
+Paste your session cookie (128 characters long hexadecimal string) here.
